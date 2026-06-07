@@ -1,0 +1,9 @@
+auth:
+  method: sasl
+  username: ""
+  password: ""
+  ca_path: "./certs/ca.pem"
+
+bootstrap_server: ""
+topic: "youtube-comments"
+youtube_api_key: ""
